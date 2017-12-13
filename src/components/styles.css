@@ -1,0 +1,24 @@
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.form {
+  padding: 16px;
+}
+
+.chart {
+  max-width: 350px;
+  min-width: 150px;
+}
+
+.comment {
+  padding: 16px;
+  background-color: #8090c7;
+  margin: 15px;
+  border-radius: 5px;
+}
